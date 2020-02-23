@@ -1,5 +1,6 @@
 A = [5, 2, 4, 6, 1, 3]
 
+
 def insertion_sort(A):
     for i in range(1, len(A)):
         key = A[i]
