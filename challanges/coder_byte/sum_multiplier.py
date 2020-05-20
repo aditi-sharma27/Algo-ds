@@ -24,3 +24,5 @@ def sum_mul():
 
 
 print("res", sum_mul())
+
+# ok
