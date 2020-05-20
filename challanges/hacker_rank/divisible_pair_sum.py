@@ -1,4 +1,4 @@
-
+# Linkedin
 import math
 import os
 import random
@@ -16,6 +16,7 @@ def divisible_pair_sum(elem_list, k):
                 counter += 1
             j += 1
     return counter
+
 
 if __name__ == '__main__':
     nk = input().split()
